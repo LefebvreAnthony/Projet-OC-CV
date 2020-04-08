@@ -151,6 +151,7 @@ a:hover{
 .liFlex{
     display: flex;
     padding-bottom: 2em;
+    width: 100%
 }
 .date{
     width: 30%;
